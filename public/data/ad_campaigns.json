@@ -1,0 +1,634 @@
+{
+    "campaigns": [
+        {
+            "campaign_id": "0001",
+            "campaign_name": "Devolved dedicated orchestration",
+            "start_date": "2024/07/31",
+            "end_date": "2024/08/04",
+            "metrics": [
+                {
+                    "date": "2024-07-31",
+                    "impressions": 254,
+                    "clicks": 56,
+                    "conversions": 47,
+                    "cost": 551.29,
+                    "ctr": 22.05,
+                    "cpc": 9.84,
+                    "conversion_rate": 83.93,
+                    "cost_per_conversion": 11.73
+                },
+                {
+                    "date": "2024-08-01",
+                    "impressions": 324,
+                    "clicks": 94,
+                    "conversions": 15,
+                    "cost": 964.39,
+                    "ctr": 29.01,
+                    "cpc": 10.26,
+                    "conversion_rate": 15.96,
+                    "cost_per_conversion": 64.29
+                },
+                {
+                    "date": "2024-08-02",
+                    "impressions": 124,
+                    "clicks": 23,
+                    "conversions": 43,
+                    "cost": 543.85,
+                    "ctr": 18.55,
+                    "cpc": 23.65,
+                    "conversion_rate": 186.96,
+                    "cost_per_conversion": 12.65
+                },
+                {
+                    "date": "2024-08-03",
+                    "impressions": 484,
+                    "clicks": 318,
+                    "conversions": 20,
+                    "cost": 585.29,
+                    "ctr": 65.7,
+                    "cpc": 1.84,
+                    "conversion_rate": 6.29,
+                    "cost_per_conversion": 29.26
+                },
+                {
+                    "date": "2024-08-04",
+                    "impressions": 376,
+                    "clicks": 81,
+                    "conversions": 15,
+                    "cost": 344.29,
+                    "ctr": 21.54,
+                    "cpc": 4.25,
+                    "conversion_rate": 18.52,
+                    "cost_per_conversion": 22.95
+                }
+            ]
+        },
+        {
+            "campaign_id": "0002",
+            "campaign_name": "Centralized context-sensitive database",
+            "start_date": "2024/07/31",
+            "end_date": "2024/08/04",
+            "metrics": [
+                {
+                    "date": "2024-07-31",
+                    "impressions": 356,
+                    "clicks": 16,
+                    "conversions": 35,
+                    "cost": 21.99,
+                    "ctr": 4.49,
+                    "cpc": 1.37,
+                    "conversion_rate": 218.75,
+                    "cost_per_conversion": 0.63
+                },
+                {
+                    "date": "2024-08-01",
+                    "impressions": 403,
+                    "clicks": 191,
+                    "conversions": 39,
+                    "cost": 788.15,
+                    "ctr": 47.39,
+                    "cpc": 4.13,
+                    "conversion_rate": 20.42,
+                    "cost_per_conversion": 20.21
+                },
+                {
+                    "date": "2024-08-02",
+                    "impressions": 286,
+                    "clicks": 358,
+                    "conversions": 16,
+                    "cost": 92.65,
+                    "ctr": 125.17,
+                    "cpc": 0.26,
+                    "conversion_rate": 4.47,
+                    "cost_per_conversion": 5.79
+                },
+                {
+                    "date": "2024-08-03",
+                    "impressions": 484,
+                    "clicks": 367,
+                    "conversions": 36,
+                    "cost": 397.85,
+                    "ctr": 75.83,
+                    "cpc": 1.08,
+                    "conversion_rate": 9.81,
+                    "cost_per_conversion": 11.05
+                },
+                {
+                    "date": "2024-08-04",
+                    "impressions": 163,
+                    "clicks": 46,
+                    "conversions": 11,
+                    "cost": 249.29,
+                    "ctr": 28.22,
+                    "cpc": 5.42,
+                    "conversion_rate": 23.91,
+                    "cost_per_conversion": 22.66
+                }
+            ]
+        },
+        {
+            "campaign_id": "0003",
+            "campaign_name": "Synchronised content-based initiative",
+            "start_date": "2024/07/31",
+            "end_date": "2024/08/04",
+            "metrics": [
+                {
+                    "date": "2024-07-31",
+                    "impressions": 123,
+                    "clicks": 183,
+                    "conversions": 50,
+                    "cost": 840.5,
+                    "ctr": 148.78,
+                    "cpc": 4.59,
+                    "conversion_rate": 27.32,
+                    "cost_per_conversion": 16.81
+                },
+                {
+                    "date": "2024-08-01",
+                    "impressions": 351,
+                    "clicks": 140,
+                    "conversions": 50,
+                    "cost": 878.39,
+                    "ctr": 39.89,
+                    "cpc": 6.27,
+                    "conversion_rate": 35.71,
+                    "cost_per_conversion": 17.57
+                },
+                {
+                    "date": "2024-08-02",
+                    "impressions": 288,
+                    "clicks": 154,
+                    "conversions": 44,
+                    "cost": 785.49,
+                    "ctr": 53.47,
+                    "cpc": 5.1,
+                    "conversion_rate": 28.57,
+                    "cost_per_conversion": 17.85
+                },
+                {
+                    "date": "2024-08-03",
+                    "impressions": 347,
+                    "clicks": 186,
+                    "conversions": 22,
+                    "cost": 244.59,
+                    "ctr": 53.6,
+                    "cpc": 1.31,
+                    "conversion_rate": 11.83,
+                    "cost_per_conversion": 11.12
+                },
+                {
+                    "date": "2024-08-04",
+                    "impressions": 147,
+                    "clicks": 260,
+                    "conversions": 21,
+                    "cost": 969.05,
+                    "ctr": 176.87,
+                    "cpc": 3.73,
+                    "conversion_rate": 8.08,
+                    "cost_per_conversion": 46.15
+                }
+            ]
+        },
+        {
+            "campaign_id": "0004",
+            "campaign_name": "Sharable exuding functionalities",
+            "start_date": "2024/07/31",
+            "end_date": "2024/08/04",
+            "metrics": [
+                {
+                    "date": "2024-07-31",
+                    "impressions": 362,
+                    "clicks": 243,
+                    "conversions": 26,
+                    "cost": 504.85,
+                    "ctr": 67.13,
+                    "cpc": 2.08,
+                    "conversion_rate": 10.7,
+                    "cost_per_conversion": 19.42
+                },
+                {
+                    "date": "2024-08-01",
+                    "impressions": 297,
+                    "clicks": 19,
+                    "conversions": 33,
+                    "cost": 379.1,
+                    "ctr": 6.4,
+                    "cpc": 19.95,
+                    "conversion_rate": 173.68,
+                    "cost_per_conversion": 11.49
+                },
+                {
+                    "date": "2024-08-02",
+                    "impressions": 489,
+                    "clicks": 161,
+                    "conversions": 26,
+                    "cost": 554.06,
+                    "ctr": 32.92,
+                    "cpc": 3.44,
+                    "conversion_rate": 16.15,
+                    "cost_per_conversion": 21.31
+                },
+                {
+                    "date": "2024-08-03",
+                    "impressions": 107,
+                    "clicks": 245,
+                    "conversions": 28,
+                    "cost": 79.89,
+                    "ctr": 228.97,
+                    "cpc": 0.33,
+                    "conversion_rate": 11.43,
+                    "cost_per_conversion": 2.85
+                },
+                {
+                    "date": "2024-08-04",
+                    "impressions": 173,
+                    "clicks": 85,
+                    "conversions": 16,
+                    "cost": 191.39,
+                    "ctr": 49.13,
+                    "cpc": 2.25,
+                    "conversion_rate": 18.82,
+                    "cost_per_conversion": 11.96
+                }
+            ]
+        },
+        {
+            "campaign_id": "0005",
+            "campaign_name": "Ameliorated directional throughput",
+            "start_date": "2024/07/31",
+            "end_date": "2024/08/04",
+            "metrics": [
+                {
+                    "date": "2024-07-31",
+                    "impressions": 340,
+                    "clicks": 294,
+                    "conversions": 24,
+                    "cost": 397.65,
+                    "ctr": 86.47,
+                    "cpc": 1.35,
+                    "conversion_rate": 8.16,
+                    "cost_per_conversion": 16.57
+                },
+                {
+                    "date": "2024-08-01",
+                    "impressions": 323,
+                    "clicks": 79,
+                    "conversions": 12,
+                    "cost": 449.85,
+                    "ctr": 24.46,
+                    "cpc": 5.69,
+                    "conversion_rate": 15.19,
+                    "cost_per_conversion": 37.49
+                },
+                {
+                    "date": "2024-08-02",
+                    "impressions": 297,
+                    "clicks": 233,
+                    "conversions": 30,
+                    "cost": 379.15,
+                    "ctr": 78.45,
+                    "cpc": 1.63,
+                    "conversion_rate": 12.88,
+                    "cost_per_conversion": 12.64
+                },
+                {
+                    "date": "2024-08-03",
+                    "impressions": 172,
+                    "clicks": 215,
+                    "conversions": 24,
+                    "cost": 496.19,
+                    "ctr": 125,
+                    "cpc": 2.31,
+                    "conversion_rate": 11.16,
+                    "cost_per_conversion": 20.67
+                },
+                {
+                    "date": "2024-08-04",
+                    "impressions": 166,
+                    "clicks": 39,
+                    "conversions": 41,
+                    "cost": 782.2,
+                    "ctr": 23.49,
+                    "cpc": 20.06,
+                    "conversion_rate": 105.13,
+                    "cost_per_conversion": 19.08
+                }
+            ]
+        },
+        {
+            "campaign_id": "0006",
+            "campaign_name": "Persevering motivating concept",
+            "start_date": "2024/07/31",
+            "end_date": "2024/08/04",
+            "metrics": [
+                {
+                    "date": "2024-07-31",
+                    "impressions": 245,
+                    "clicks": 337,
+                    "conversions": 19,
+                    "cost": 641.39,
+                    "ctr": 137.55,
+                    "cpc": 1.9,
+                    "conversion_rate": 5.64,
+                    "cost_per_conversion": 33.76
+                },
+                {
+                    "date": "2024-08-01",
+                    "impressions": 464,
+                    "clicks": 99,
+                    "conversions": 22,
+                    "cost": 137.6,
+                    "ctr": 21.34,
+                    "cpc": 1.39,
+                    "conversion_rate": 22.22,
+                    "cost_per_conversion": 6.25
+                },
+                {
+                    "date": "2024-08-02",
+                    "impressions": 439,
+                    "clicks": 387,
+                    "conversions": 34,
+                    "cost": 335.95,
+                    "ctr": 88.15,
+                    "cpc": 0.87,
+                    "conversion_rate": 8.79,
+                    "cost_per_conversion": 9.88
+                },
+                {
+                    "date": "2024-08-03",
+                    "impressions": 336,
+                    "clicks": 197,
+                    "conversions": 48,
+                    "cost": 420.49,
+                    "ctr": 58.63,
+                    "cpc": 2.13,
+                    "conversion_rate": 24.37,
+                    "cost_per_conversion": 8.76
+                },
+                {
+                    "date": "2024-08-04",
+                    "impressions": 283,
+                    "clicks": 286,
+                    "conversions": 45,
+                    "cost": 249.49,
+                    "ctr": 101.06,
+                    "cpc": 0.87,
+                    "conversion_rate": 15.73,
+                    "cost_per_conversion": 5.54
+                }
+            ]
+        },
+        {
+            "campaign_id": "0007",
+            "campaign_name": "User-friendly 3rd generation knowledge base",
+            "start_date": "2024/07/31",
+            "end_date": "2024/08/04",
+            "metrics": [
+                {
+                    "date": "2024-07-31",
+                    "impressions": 469,
+                    "clicks": 119,
+                    "conversions": 41,
+                    "cost": 655.55,
+                    "ctr": 25.37,
+                    "cpc": 5.51,
+                    "conversion_rate": 34.45,
+                    "cost_per_conversion": 15.99
+                },
+                {
+                    "date": "2024-08-01",
+                    "impressions": 486,
+                    "clicks": 243,
+                    "conversions": 37,
+                    "cost": 334.49,
+                    "ctr": 50,
+                    "cpc": 1.38,
+                    "conversion_rate": 15.23,
+                    "cost_per_conversion": 9.04
+                },
+                {
+                    "date": "2024-08-02",
+                    "impressions": 145,
+                    "clicks": 395,
+                    "conversions": 46,
+                    "cost": 7.79,
+                    "ctr": 272.41,
+                    "cpc": 0.02,
+                    "conversion_rate": 11.65,
+                    "cost_per_conversion": 0.17
+                },
+                {
+                    "date": "2024-08-03",
+                    "impressions": 354,
+                    "clicks": 10,
+                    "conversions": 40,
+                    "cost": 697.15,
+                    "ctr": 2.82,
+                    "cpc": 69.72,
+                    "conversion_rate": 400,
+                    "cost_per_conversion": 17.43
+                },
+                {
+                    "date": "2024-08-04",
+                    "impressions": 145,
+                    "clicks": 332,
+                    "conversions": 23,
+                    "cost": 500.29,
+                    "ctr": 228.97,
+                    "cpc": 1.51,
+                    "conversion_rate": 6.93,
+                    "cost_per_conversion": 21.75
+                }
+            ]
+        },
+        {
+            "campaign_id": "0008",
+            "campaign_name": "Business-focused maximized artificial intelligence",
+            "start_date": "2024/07/31",
+            "end_date": "2024/08/04",
+            "metrics": [
+                {
+                    "date": "2024-07-31",
+                    "impressions": 283,
+                    "clicks": 362,
+                    "conversions": 45,
+                    "cost": 653.19,
+                    "ctr": 127.92,
+                    "cpc": 1.8,
+                    "conversion_rate": 12.43,
+                    "cost_per_conversion": 14.52
+                },
+                {
+                    "date": "2024-08-01",
+                    "impressions": 454,
+                    "clicks": 390,
+                    "conversions": 38,
+                    "cost": 779.99,
+                    "ctr": 85.9,
+                    "cpc": 2,
+                    "conversion_rate": 9.74,
+                    "cost_per_conversion": 20.53
+                },
+                {
+                    "date": "2024-08-02",
+                    "impressions": 169,
+                    "clicks": 312,
+                    "conversions": 35,
+                    "cost": 653.85,
+                    "ctr": 184.62,
+                    "cpc": 2.1,
+                    "conversion_rate": 11.22,
+                    "cost_per_conversion": 18.68
+                },
+                {
+                    "date": "2024-08-03",
+                    "impressions": 427,
+                    "clicks": 187,
+                    "conversions": 25,
+                    "cost": 461.55,
+                    "ctr": 43.79,
+                    "cpc": 2.47,
+                    "conversion_rate": 13.37,
+                    "cost_per_conversion": 18.46
+                },
+                {
+                    "date": "2024-08-04",
+                    "impressions": 192,
+                    "clicks": 337,
+                    "conversions": 22,
+                    "cost": 131.99,
+                    "ctr": 175.52,
+                    "cpc": 0.39,
+                    "conversion_rate": 6.53,
+                    "cost_per_conversion": 6
+                }
+            ]
+        },
+        {
+            "campaign_id": "0009",
+            "campaign_name": "Innovative 24/7 flexibility",
+            "start_date": "2024/07/31",
+            "end_date": "2024/08/04",
+            "metrics": [
+                {
+                    "date": "2024-07-31",
+                    "impressions": 473,
+                    "clicks": 255,
+                    "conversions": 46,
+                    "cost": 474.79,
+                    "ctr": 53.91,
+                    "cpc": 1.86,
+                    "conversion_rate": 18.04,
+                    "cost_per_conversion": 10.32
+                },
+                {
+                    "date": "2024-08-01",
+                    "impressions": 489,
+                    "clicks": 307,
+                    "conversions": 30,
+                    "cost": 792.7,
+                    "ctr": 62.78,
+                    "cpc": 2.58,
+                    "conversion_rate": 9.77,
+                    "cost_per_conversion": 26.42
+                },
+                {
+                    "date": "2024-08-02",
+                    "impressions": 500,
+                    "clicks": 122,
+                    "conversions": 31,
+                    "cost": 360.79,
+                    "ctr": 24.4,
+                    "cpc": 2.96,
+                    "conversion_rate": 25.41,
+                    "cost_per_conversion": 11.64
+                },
+                {
+                    "date": "2024-08-03",
+                    "impressions": 289,
+                    "clicks": 124,
+                    "conversions": 49,
+                    "cost": 426.69,
+                    "ctr": 42.91,
+                    "cpc": 3.44,
+                    "conversion_rate": 39.52,
+                    "cost_per_conversion": 8.71
+                },
+                {
+                    "date": "2024-08-04",
+                    "impressions": 290,
+                    "clicks": 300,
+                    "conversions": 35,
+                    "cost": 735.79,
+                    "ctr": 103.45,
+                    "cpc": 2.45,
+                    "conversion_rate": 11.67,
+                    "cost_per_conversion": 21.02
+                }
+            ]
+        },
+        {
+            "campaign_id": "0010",
+            "campaign_name": "Seamless contextually-based task-force",
+            "start_date": "2024/07/31",
+            "end_date": "2024/08/04",
+            "metrics": [
+                {
+                    "date": "2024-07-31",
+                    "impressions": 202,
+                    "clicks": 230,
+                    "conversions": 33,
+                    "cost": 648.6,
+                    "ctr": 113.86,
+                    "cpc": 2.82,
+                    "conversion_rate": 14.35,
+                    "cost_per_conversion": 19.65
+                },
+                {
+                    "date": "2024-08-01",
+                    "impressions": 479,
+                    "clicks": 61,
+                    "conversions": 31,
+                    "cost": 825.9,
+                    "ctr": 12.73,
+                    "cpc": 13.54,
+                    "conversion_rate": 50.82,
+                    "cost_per_conversion": 26.64
+                },
+                {
+                    "date": "2024-08-02",
+                    "impressions": 472,
+                    "clicks": 49,
+                    "conversions": 35,
+                    "cost": 2.69,
+                    "ctr": 10.38,
+                    "cpc": 0.05,
+                    "conversion_rate": 71.43,
+                    "cost_per_conversion": 0.08
+                },
+                {
+                    "date": "2024-08-03",
+                    "impressions": 244,
+                    "clicks": 295,
+                    "conversions": 23,
+                    "cost": 89.19,
+                    "ctr": 120.9,
+                    "cpc": 0.3,
+                    "conversion_rate": 7.8,
+                    "cost_per_conversion": 3.88
+                },
+                {
+                    "date": "2024-08-04",
+                    "impressions": 334,
+                    "clicks": 276,
+                    "conversions": 16,
+                    "cost": 624.25,
+                    "ctr": 82.63,
+                    "cpc": 2.26,
+                    "conversion_rate": 5.8,
+                    "cost_per_conversion": 39.02
+                }
+            ]
+        }
+    ]
+}
